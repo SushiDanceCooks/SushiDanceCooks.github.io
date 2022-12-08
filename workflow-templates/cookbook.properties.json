@@ -1,0 +1,13 @@
+{
+    "name": "Gilli Inc",
+    "description": "Gilli decides to make an online recipebook.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
